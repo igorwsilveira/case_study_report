@@ -1,4 +1,4 @@
-<h1> Case Study Sales Report 📊 </h1>
+<h1> Case Study Report Sales 📊 </h1>
 
 <h2>Introduction</h2>
 
