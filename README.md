@@ -1,4 +1,4 @@
-<h1> Case Study Sales Report </h1>
+<h1> Case Study Sales Report 📊 </h1>
 
 <h2>Introduction</h2>
 
@@ -41,7 +41,7 @@ The final product is a dashboard that contains all the business demands. The map
 
 You can see the final dashboard clicking [HERE](https://app.powerbi.com/groups/me/reports/6dab6f93-82d5-4671-b0de-d9c346c0472c?ctid=f498c83b-f0d1-4000-9acf-332090bd7cb3&pbi_source=linkShare) or in the image below.
 
-![Alt text](SalesReport.png "Sales Report)
+![Alt text](SalesReport.png "Sales Report")
 
 <h2>Conclusion</h2>
 
